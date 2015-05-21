@@ -9,11 +9,11 @@ ActionDispatch::Callbacks.to_prepare do
   end
 end
 
-Redmine::Plugin.register :redmine_auto_percent do
-  name 'Redmine Auto Done 100%'
-  author 'Wade Womersley'
-  description 'Automatically sets 100% done on Resolved or Closed'
-  version '0.0.1'
-  url ''
-  author_url 'http://www.xcitestudios.com/'
+Redmine::Plugin.register :redmine_issue_completion do
+  name 'Redmine issue completion'
+  author 'Andrey Shpak'
+  description 'Automatically sets 100% done and current date as due_date on Resolved or Closed'
+  version '0.0.2'
+  url 'https://github.com/insspb/redmine_issue_completion'
+  author_url 'http://ashpak.ru'
 end
