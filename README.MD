@@ -1,4 +1,4 @@
-= Redmine issue completion
+# Redmine issue completion
 
 [![Code Climate](https://codeclimate.com/github/insspb/redmine_issue_completion/badges/gpa.svg)](https://codeclimate.com/github/insspb/redmine_issue_completion)
 
