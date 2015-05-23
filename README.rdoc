@@ -1,5 +1,7 @@
 = Redmine issue completion
 
+[![Code Climate](https://codeclimate.com/github/insspb/redmine_issue_completion/badges/gpa.svg)](https://codeclimate.com/github/insspb/redmine_issue_completion)
+
 Redmine issue completion plugin helps you to fill some fields on issue close event. 
 It fills percent to 100% in any status with "Issue closed" selected. You do not need to configure Issue done ratios in tracker configuration, so you can use floating percents on other statuses.
 
